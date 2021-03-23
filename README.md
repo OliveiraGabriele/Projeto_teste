@@ -6,6 +6,6 @@
 
 # Markdown
 
-- [x] Laboratórios do primeiro mundo do Curso Python #01 - Seja um Programado 
-    Link -> https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+- [x] Laboratórios do primeiro mundo do Curso Python #01 
+- Seja um Programador Link -> https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
