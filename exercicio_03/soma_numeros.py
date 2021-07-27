@@ -1,4 +1,4 @@
-a =int(input ('Digite um número:'))
-b =int(input ('Digite um número:'))
+a =int(input ('Digite um nÃºmero:'))
+b =int(input ('Digite um nÃºmero:'))
 soma = a + b
-print('A soma é de', soma
+print('A soma Ã© de', soma)
