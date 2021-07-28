@@ -1,7 +1,7 @@
 from random import randint
 maquina = randint(0, 5)
-usuario = int(input('Em que nÃºmero eu pensei?:'))
+usuario = int(input('Em que número eu pensei?:'))
 if usuario == maquina:
-    print("VocÃª conseguiu adivinhar!")
+    print("Você conseguiu adivinhar!")
 else:
-    print('Infelismente vocÃª nÃ£o conseguiu adivinhar, pois pensei no numero {} nÃ£o no {}.'.format(maquina, usuario))  
+    print('Infelismente você não conseguiu adivinhar, pois pensei no numero {} não no {}.'.format(maquina, usuario))
